@@ -9,4 +9,4 @@ Then cd to the file, and select node server.js
 
 Head to localhost:8000/auth/facebook. 
 If you log in successfully, voila. You've logged in using Facebook. 
-
+It will be printed on the page, it is a success.
